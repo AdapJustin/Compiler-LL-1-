@@ -1,0 +1,1 @@
+[S # [[BagelCode # [],],[ASSIGN # [[x # [],],[IN # [[STR="Enter a number: " # [],],],],],],[if-stmt # [[IF # [[ISEQUAL # [[ADD # [[x # [],],[INT=1 # [],],],],[INT=3 # [],],],],[SHOW # [[x # [],],],],],],],],[DO-WHEN # [[LT # [[x # [],],[INT=5 # [],],],],[SHOW # [[x # [],],],],[ASSIGN # [[x # [],],[ADD # [[x # [],],[INT=1 # [],],],],],],],],],],

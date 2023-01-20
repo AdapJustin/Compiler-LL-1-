@@ -1,0 +1,11 @@
+Start BagelCode [
+    Int x = in("Enter a number: ");
+    if((x + 1) == 3){
+        show(x);
+    }
+    do{
+
+      show(x);
+      x = x + 1;
+    }when(x < 5)
+]End
